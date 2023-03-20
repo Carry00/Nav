@@ -109,7 +109,7 @@
     - term: 影音视频
       links:
         - title: pakatv
-          logo: paka.png
+          logo: favicon.ico
           url: http://www.paka.tv/
           description: pakatv，海外华人专属影视库。
         - title: 腾讯视频
